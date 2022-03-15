@@ -1,0 +1,1 @@
+const listaSelecaoPokemons = document.querySelectorAll('.pokemon'); 
